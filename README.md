@@ -24,6 +24,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-joslin&layout=compact)](https://github.com/james-joslin/github-readme-stats&bg_color=00000000&border_color=00000000)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=james-joslin&hide=issues&show_icons=true&bg_color=00000000&border_color=00000000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=james-joslin&hide=issues&show_icons=true)
 
+<!-- &bg_color=00000000&border_color=00000000 -->
 
