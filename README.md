@@ -24,7 +24,7 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-joslin&layout=compact)](https://github.com/james-joslin/github-readme-stats&bg_color=00000000&border_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-joslin&layout=compact&hide=jupyter%20notebook,shaderlab,makefile&langs_count=7)](https://github.com/james-joslin/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=james-joslin&hide=issues&show_icons=true)
 
 <!-- &bg_color=00000000&border_color=00000000 -->
