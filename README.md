@@ -10,7 +10,7 @@
 
 ## ✉️ About me:
 - 🔭 I’m currently working on a personal game in Unreal Engine
-- 🌱 I’m currently learning c-sharp
+- 🌱 I’m currently learning c-sharp and c++
 - 💬 Ask me about combining Art and Technical Skills - No AI generated art though
 - ⚡ Fun fact: Oranges are the largest citrus fruit in the world
 
