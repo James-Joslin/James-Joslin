@@ -31,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-joslin&layout=compact&hide=jupyter%20notebook,shaderlab,makefile&langs_count=7)](https://github.com/james-joslin/github-readme-stats)
 
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=james-joslin&hide=issues&show_icons=true)-->
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=james-joslin&hide=issues&show_icons=true)
