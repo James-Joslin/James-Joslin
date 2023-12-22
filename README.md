@@ -34,5 +34,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-joslin&layout=compact" alt="James' Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-joslin&layout=compact&hide=jupyter%20notebook,shaderlab,makefile&langs_count=7" />
 </p>
