@@ -31,9 +31,9 @@
 <!-- GitHub Stats and Top Languages -->
 <p align="center">
   <a href="https://github.com/james-joslin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=james-joslin&show_icons=true&hide=issues" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-joslin&layout=compact&hide=jupyter%20notebook,shaderlab,makefile&langs_count=7" />
   </a>
   <a href="https://github.com/james-joslin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-joslin&layout=compact&hide=jupyter%20notebook,shaderlab,makefile&langs_count=7" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=james-joslin&show_icons=true&hide=issues" />
   </a>
 </p>
