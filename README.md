@@ -29,9 +29,9 @@
  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio 2022" height="40" style="vertical-align:top; margin:4px">
  </p>
 <!-- GitHub Stats and Top Languages -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=james-joslin&show_icons=true&hide=issues" alt="James' GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-joslin&layout=compact&hide=jupyter%20notebook,shaderlab,makefile&langs_count=8" />
