@@ -32,4 +32,7 @@
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=james-joslin&show_icons=true&hide=issues" alt="James' GitHub Stats" />
 </p> -->
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-joslin&layout=compact&hide=jupyter%20notebook,shaderlab,makefile&langs_count=8" />
+</p>
 
