@@ -34,6 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=james-joslin&show_icons=true&hide=issues" alt="James' GitHub Stats" />
 </p> -->
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-joslin&hide=jupyter%20notebook,dockerfile,shaderlab,makefile&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-joslin&hide=jupyter%20notebook,dockerfile,shaderlab,makefile&langs_count=7" />
 </p>
 
